@@ -1,0 +1,94 @@
+.pa{
+  text-align: center;
+  color: white;
+  font-size: 30px;
+}
+.po{
+  text-align: center;
+  color: white;
+  font-size: 20px;
+}
+
+body{
+  background: black;
+}
+.fname input{
+  background: transparent;
+  color: white;
+  border: lightgrey solid 0.5px;
+  border-radius: 10px;
+  width: 95%;
+  padding: 20px 0px 20px 15px;
+  margin: 10px auto;
+  font-size: 15px;
+}
+.q{
+  margin: 10% 86%;
+  width: 10%;
+  cursor: pointer;
+  background: cornflowerblue;
+  color: white;
+  border: cornflowerblue solid 5px;
+  border-radius: 3px;
+}
+a:link , a:visited{
+  text-decoration: none;
+  display: inline-block;
+  color: black;
+}
+
+.rad{
+  color: white;
+  font-size: 40px;
+  padding: 10px 0 0 0;
+}
+.ra{
+  border-radius: 10px;
+  width: 100%;
+  
+}
+.ra input{
+  background: transparent;
+  color: white;
+  border: lightgrey solid 0.5px;
+  border-radius: 10px;
+  width: 95%;
+  padding: 20px 0px 20px 15px;
+  margin: 10px auto;
+  font-size: 15px;
+  
+}
+select{
+  background: transparent;
+  color: white;
+  width: 100%;
+  font-size: 15px;
+  border-radius: 3px;
+  padding: 20px 0px 20px 5px;
+  
+}
+.yer input{
+  background: transparent;
+  color: white;
+  padding: 20px 0px 20px 15px;
+  width: 50%;
+  font-size: 15px;
+  border: lightgray solid 0.5px;
+  border-radius: 5px;
+  
+}
+.gen{
+  background: transparent;
+  color: white;
+  radius: 30px;
+  width: 99%;
+  padding: 10px 0 20px 0;
+  font-size: 15px;
+}
+.pass-icon{
+  position: absolute;
+  top: 10px;
+  right: 10px;
+  width: 24px;
+  cursor: pointer;
+}
